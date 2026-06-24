@@ -1,0 +1,16 @@
+store_id,store_name,city,region
+ST01,RetailMart Downtown,New Delhi,North
+ST02,RetailMart Mall,Mumbai,West
+ST03,RetailMart Express,Bangalore,South
+ST04,RetailMart Center,Hyderabad,South
+ST05,RetailMart Plaza,Chennai,South
+ST06,RetailMart Station,Kolkata,East
+ST07,RetailMart Square,Pune,West
+ST08,RetailMart Hub,Ahmedabad,West
+ST09,RetailMart Point,Jaipur,North
+ST10,RetailMart Outlet,Lucknow,North
+ST11,RetailMart Store,Indore,Central
+ST12,RetailMart District,Surat,West
+ST13,RetailMart Avenue,Vadodara,West
+ST14,RetailMart Corner,Chandigarh,North
+ST15,RetailMart Branch,Bhopal,Central

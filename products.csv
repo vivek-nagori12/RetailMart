@@ -1,0 +1,16 @@
+product_id,product_name,category,price
+P001,Laptop,Electronics,500
+P002,Office Chair,Furniture,400
+P003,Desk Lamp,Electronics,700
+P004,Monitor,Electronics,600
+P005,Keyboard,Electronics,400
+P006,Mouse,Electronics,300
+P007,Desk,Furniture,1000
+P008,Bookshelf,Furniture,800
+P009,Notebook,Stationery,50
+P010,Pen Set,Stationery,100
+P011,Paper Ream,Stationery,75
+P012,Filing Cabinet,Furniture,1200
+P013,USB Cable,Electronics,200
+P014,Wireless Mouse,Electronics,350
+P015,Monitor Stand,Furniture,450
